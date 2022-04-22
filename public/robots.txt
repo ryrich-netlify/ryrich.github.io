@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ryrich.github.io/sitemap.xml
